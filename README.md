@@ -17,7 +17,7 @@
 
 ## -----
 
-https://github-readme-stats.vercel.app/api?username=LailsonGabriel&theme=midnight-purple&show_icons=true
+[![Total](https://github-readme-stats.vercel.app/api?username=LailsonGabriel&theme=midnight-purple&show_icons=true)]
 
 
 <!--
