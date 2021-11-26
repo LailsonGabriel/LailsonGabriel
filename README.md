@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## I'm Lailson Cavalcante
-<a href="https://www.linkedin.com/in/lailson-cavalcante-7448a2203/">(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+![Linkedin]<a href="https://www.linkedin.com/in/lailson-cavalcante-7448a2203/">(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 ![Lailson GitHub stats](https://github-readme-stats.vercel.app/api?username=LailsonGabriel&theme=midnight-purple&show_icons=true)
 
 
