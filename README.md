@@ -15,7 +15,7 @@
 ![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="50px"/>
 
-https://github-readme-stats.vercel.app/api?username=LailsonGabriel&theme=midnight-purple&show_icons=true)
+(https://github-readme-stats.vercel.app/api?username=LailsonGabriel&theme=midnight-purple&show_icons=true)
 
 
 <!--
